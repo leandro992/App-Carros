@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Carros</string>
+    <string name="modelo">Modelo</string>
+    <string name="cavalos">Cavalos</string>
+    <string name="preco">preço</string>
+    <string name="ver_detalhes">ver_detalhes</string>
+    <string name="todo">TODO</string>
+</resources>
