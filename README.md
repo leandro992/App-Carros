@@ -1,6 +1,6 @@
 # App-Carros
 Listagem ce carros usando RecyclerView
-## Ss</br>
+##</br>
 
 <p align="center">
   <img src="carros/appCarro.gif" width="250" title="hover text">
