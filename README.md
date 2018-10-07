@@ -1,8 +1,5 @@
 # App-Carros
 Listagem ce carros usando RecyclerView
-# RelogioLottie
-App RelogioMundial com exemplificação de utilização da biblioteca Lottie de animações via Json usando Kotlin
-
 ## Ss</br>
 
 <p align="center">
